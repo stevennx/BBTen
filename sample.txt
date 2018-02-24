@@ -1,1 +1,3 @@
-ECHO is on.
+def add1(int num) {
+  return num + 1;
+}
