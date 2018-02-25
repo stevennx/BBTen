@@ -11,3 +11,6 @@ Please Don't
 
 ## License & Copyright
  © Puffnut
+
+## About Me
+Hi my name is Steven and I want to be in Accounting!
