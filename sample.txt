@@ -1,4 +1,0 @@
-int add1(int num) {
-  return num + 1;
-}
-// Hello my name is Steven
