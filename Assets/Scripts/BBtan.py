@@ -127,7 +127,7 @@ def game():
     hit2 = pygame.mixer.Sound(music_path+"hit2.wav")
     hit2.set_volume(1.0)
     laser = pygame.mixer.Sound(music_path+"laser.wav")
-    laser.set_volume(0.8)Could not get lock /var/lib/apt/lists/lock - open (11: Resource temporarily unavailable)
+    laser.set_volume(0.8)
 
     powerup = pygame.mixer.Sound(music_path+"powerup.wav")
     powerup.set_volume(0.8)
